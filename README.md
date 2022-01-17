@@ -1,10 +1,10 @@
 ### Welcome! 👋
 
-I'm Caroline (she/hers), a journalist turned software engineer with a passion for building apps with an impact (like improving mental health: https://www.youtube.com/watch?v=2cLd5Zk5kzs) 
+I'm Caroline (she/hers), a journalist turned software engineer with a passion for building apps with an impact (like improving mental health: https://www.youtube.com/watch?v=2cLd5Zk5kzs).
 
 - 🔭 I’m working on a fact-checking, location-based social media app using Go & TypeScript. 
 - 🌱 I’m currently learning data structures & algorithms. 
-- 📫 How to reach me: spieziocaroline@gmail.com 
+- 📫 How to reach me: spieziocaroline@gmail.com. 
 - 🧗 Fun fact: When I'm not coding, I'm climbing.
 
 My tools & tech include: 
